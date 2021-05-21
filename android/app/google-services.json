@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489557919180",
+    "project_id": "dk-final",
+    "storage_bucket": "dk-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489557919180:android:d0a529beff21818e3b0969",
+        "android_client_info": {
+          "package_name": "com.lawrencebanks1.dealkarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489557919180-n1l6k3ohhoj86ug03m8937qi28dj7reh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqCo0Sg8bSLZqPe4vmSqaJGMm1oxvNN7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489557919180-n1l6k3ohhoj86ug03m8937qi28dj7reh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
